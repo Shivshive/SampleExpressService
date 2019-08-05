@@ -1,0 +1,43 @@
+.login_container{
+    padding: 0px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: lightgray;
+}
+
+.login_subcontainer{
+    border: 1px solid darkgray;
+    border-radius: 10px;
+    background: white;
+    width: 30%;
+}
+
+.login_frm{
+    /* padding-bottom: 70px; */
+}
+.login_header_text{
+    font-family:  sans-serif;
+    font-weight: bolder;
+}
+
+.register_container{
+    height: 100vh;
+    padding: 0px;
+    background: lightgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.register_sub_container{
+    border: 0.5px solid darkgray;
+    background:white;
+    border-radius: 10px;
+    width: 30%;
+    /* padding-bottom: 50px; */
+}
+
+.register_link{
+    text-decoration: none;
+}
